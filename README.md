@@ -1,4 +1,3 @@
-```markdown
 # Semi-Supervised Learning with MNIST
 
 ## Project Overview
@@ -46,6 +45,3 @@ Feel free to fork this project and submit pull requests. You can also open an is
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-``` 
-
-I've made the necessary adjustments for GitHub compatibility, changing the file extension of the README from `.txt` to `.md` and adjusted the links accordingly. Let me know if you need anything else!
