@@ -19,9 +19,7 @@ This repository contains the implementation of several semi-supervised learning 
 ├── E2_Pseudo_Labelling.ipynb   # Implements pseudo labeling technique.
 ├── E3_Virtual_Adversarial_Training.ipynb  # Implements VAT.
 ├── E4_Kmeans_Pseudo_Labels.ipynb  # Combines K-means clustering with pseudo labeling.
-├── F2023finalProjects.pdf      # Project proposal and guidelines.
 ├── Saved_Data/                 # Folder containing preprocessed data files.
-├── Report Sample Images/       # Images and graphs used in the report.
 └── README.md                   # General project information.
 ```
 
