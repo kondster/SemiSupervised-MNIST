@@ -23,7 +23,7 @@ This repository contains the implementation of several semi-supervised learning 
 ├── F2023finalProjects.pdf      # Project proposal and guidelines.
 ├── Saved_Data/                 # Folder containing preprocessed data files.
 ├── Report Sample Images/       # Images and graphs used in the report.
-└── README.txt                  # General project information.
+└── README.md                   # General project information.
 ```
 
 ## Dependencies
@@ -46,3 +46,4 @@ Feel free to fork this project and submit pull requests. You can also open an is
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+``` 
